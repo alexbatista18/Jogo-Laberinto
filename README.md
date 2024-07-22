@@ -1,6 +1,6 @@
 # Jogo Torres dos Labirintos
 
-Bem-vindo ao jogo Torres dos Labirintos! [Clique aqui](https://alexbatista18.github.io/laberinto/) para começar a aventura.
+Bem-vindo ao jogo Torres dos Labirintos! [Clique aqui](https://alexbatista18.github.io/Jogo-Laberinto/) para começar a aventura.
 
 ## Funcionamento do Jogo
 
